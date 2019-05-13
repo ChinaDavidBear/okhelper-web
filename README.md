@@ -34,4 +34,4 @@ npm test
 #### 2. 若dev运行，则修改/config/index.js 的 proxyTable 改成你的后端地址 
 
 #### 3. 此项目为纯前端项目，后端请转至：https://github.com/okhelperTeam/okhelper-service
-学习中。。。2019-05-13 16-42-17
+
